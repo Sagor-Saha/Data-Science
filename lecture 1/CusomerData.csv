@@ -1,0 +1,14 @@
+Id,Marital_Status,Gender,Name,Employed,Age
+1,married,male,Lokesh,1,30
+2,single,female,Nisha,0,30
+3,single,female,Sahar,1,28
+4,married,female,Sara,0,25
+5,single,male,John,1,40
+6,single,male,Kim,1,25
+7,married,female,Julia,0,32
+8,married,male,Tarak,1,30
+9,single,male,Sheldon,1,27
+10,single,male,Raj,1,25
+11,single,male,Leonard,1,26
+12,single,female,Penny,0,23
+13,single,male,Howard,1,22
